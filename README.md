@@ -1,5 +1,5 @@
 # Clustring-and-Neural-Networks
-Implementation of Perceptron, Kmeans and Dbscan algorithms on different data sets, Data Mining course assignment, Fall 2019
+Implementation of Perceptron, Kmeans and Dbscan algorithms on different data sets, Data Mining final course project, Fall 2019
 ## Question 1
 Implement Perceptron algorithm, then design a neural network with 1 hidden layer and compare its function on data separation and its accuracy with perceptron.
 ## Question 2
